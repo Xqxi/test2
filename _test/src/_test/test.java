@@ -5,6 +5,6 @@ public class test {
 		String s = "abc";
 		int a = 10;
 		System.out.println(a+s);
-
+		System.out.println("adfadsdassf4werweq");
 	}
 }
