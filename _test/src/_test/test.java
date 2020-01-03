@@ -5,7 +5,7 @@ public class test {
 		String s = "abc";
 		int a = 10;
 		
-		
+		String dardf = “dfads”;
 		System.out.println(s);
 		System.out.println("adsfjoipawe");
 		System.out.println(a);
